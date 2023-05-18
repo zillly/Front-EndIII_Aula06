@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: #245f6e;
+    font-family: "Roboto", sans-serif;
+}
+
+.App{
+    padding: 5rem;
+    margin: 5rem;
+    color: #c07b5a;
+}
